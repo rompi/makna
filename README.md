@@ -1,2 +1,2 @@
 # makna
-API simulator
+Golang caster
